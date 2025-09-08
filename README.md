@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hphimanshu
-- 👀 I’m interested in JavaScript,PHP,MySQL,WordPress
+- 👀 I’m interested in JavaScript,PHP,MySQL,WordPress,Laravel
 - 🌱 I’m currently learning  UberFlip,Python
 - 💞️ I’m looking to collaborate on Uberflip,CSS,JavaScript
 - 📫 How to reach me LinkedIn
